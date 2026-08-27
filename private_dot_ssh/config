@@ -1,0 +1,13 @@
+# Added by OrbStack: 'orb' SSH host for Linux machines
+# This only works if it's at the top of ssh_config (before any Host blocks).
+# This won't be added again if you remove it.
+Include ~/.orbstack/ssh/config
+
+Host 192.168.*
+	StrictHostKeyChecking no
+
+Host piq
+  HostName 192.168.54.222
+
+Host dct
+  HostName 192.168.54.148
