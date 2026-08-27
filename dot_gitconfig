@@ -1,0 +1,7 @@
+[user]
+	name = Egor Khanko
+	email = egorkhanko@sunbirddcim.com
+[core]
+	excludesFile = ~/.gitignore
+[push]
+	autoSetupRemote = true

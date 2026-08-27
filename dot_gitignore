@@ -1,0 +1,6 @@
+*.sublime-project
+*.sublime-workspace
+mise.toml
+.DS_Store
+
+**/.claude/settings.local.json
