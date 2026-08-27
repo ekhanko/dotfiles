@@ -11,6 +11,13 @@ brew "ncdu"
 brew "watch"
 brew "wget"
 
+# ruby-build requisites
+brew "openssl@3"
+brew "readline"
+brew "libyaml"
+brew "gmp"
+brew "autoconf"
+
 cask "nikitabobko/tap/aerospace"
 cask "claude-code"
 cask "firefox"
@@ -32,3 +39,5 @@ cask "sublime-merge"
 cask "sublime-text"
 cask "ungoogled-chromium"
 cask "zoom"
+
+cask "telegram"
