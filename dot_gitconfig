@@ -1,6 +1,6 @@
 [user]
 	name = Egor Khanko
-	email = egorkhanko@sunbirddcim.com
+	email = egor.khanko@sunbirddcim.com
 [core]
 	excludesFile = ~/.gitignore
 [push]
